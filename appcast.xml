@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>MeetingRecorder Updates</title>
+        <link>https://raw.githubusercontent.com/emishin/meetingrecorder-updates/main/appcast.xml</link>
+        <description>Updates for MeetingRecorder</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Fri, 31 Jan 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.0</h2>
+                <p>Initial release!</p>
+                <ul>
+                    <li>Record meetings with microphone and system audio</li>
+                    <li>Automatic call detection</li>
+                    <li>AssemblyAI transcription support</li>
+                    <li>Pause/Resume recording</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.0/MeetingRecorder-1.0.dmg"
+                sparkle:edSignature="4jgjJf32mE8AFtgxLLyGU6y8exSJINS6Zmc7RbgQgONa2iT6coItHzTXwC4o7OYGSPGHGvXZwQvfsLdpOC+SCw=="
+                length="1736839"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
