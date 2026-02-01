@@ -7,6 +7,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1</title>
+            <pubDate>Sat, 01 Feb 2026 16:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.1</h2>
+                <p>New transcription service with usage limits and improvements!</p>
+                <ul>
+                    <li>New cloud transcription service with free tier (5 transcriptions/month)</li>
+                    <li>Usage tracking with monthly reset</li>
+                    <li>Improved language detection and speaker labels</li>
+                    <li>Usage warnings when approaching limit</li>
+                    <li>Bug fixes and performance improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.1/MeetingRecorder-1.1.dmg"
+                sparkle:edSignature="s51r+OexVRZ1o/HSLZq1ijrQ37J5MS2VWN+tx2S8nTwXGGOf3GQ7OAdR+40dONTC8DWuFIeoTqljczV65cgZCg=="
+                length="3123759"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.0</title>
             <pubDate>Fri, 31 Jan 2026 10:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
