@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FAQ
+    url: https://github.com/emishin/meetingrecorder-updates/wiki/FAQ
+    about: Check the FAQ before submitting an issue
