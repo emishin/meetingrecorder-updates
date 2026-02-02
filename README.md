@@ -1,57 +1,57 @@
 # MeetingRecorder
 
-Приложение для записи встреч с автоматическим определением звонков и транскрипцией.
+A macOS app for recording meetings with automatic call detection and transcription.
 
-## Скачать
+## Download
 
-**[Последняя версия](https://github.com/emishin/meetingrecorder-updates/releases/latest)**
+**[Latest Version](https://github.com/emishin/meetingrecorder-updates/releases/latest)**
 
-## Установка
+## Installation
 
-1. Открой `MeetingRecorder-X.X.dmg`
-2. Перетащи MeetingRecorder в папку Applications
-3. Запусти приложение из Applications
+1. Open `MeetingRecorder-X.X.dmg`
+2. Drag MeetingRecorder to the Applications folder
+3. Launch the app from Applications
 
-При первом запуске macOS может показать предупреждение:
+On first launch, macOS may show a warning:
 > "MeetingRecorder cannot be opened because it is from an unidentified developer"
 
-**Решение:** Нажми правой кнопкой на приложении → Open → в появившемся окне нажми "Open"
+**Solution:** Right-click on the app → Open → click "Open" in the dialog
 
-## Настройка разрешений
+## Permissions
 
-Приложению нужны два разрешения:
+The app requires two permissions:
 
-### Микрофон
-При первом запуске появится запрос — нажми "OK"
+### Microphone
+A permission request will appear on first launch — click "OK"
 
-### Запись экрана
-Нужно для записи системного аудио (звук собеседника):
+### Screen Recording
+Required to capture system audio (the other person's voice):
 1. System Settings → Privacy & Security → Screen Recording
-2. Включи MeetingRecorder
-3. Перезапусти приложение
+2. Enable MeetingRecorder
+3. Restart the app
 
-## Использование
+## Usage
 
-- Приложение работает в menu bar (верхняя панель)
-- Нажми на иконку чтобы открыть меню
-- "Start Recording" — начать запись вручную
-- При обнаружении звонка (Zoom, FaceTime и др.) появится окно с предложением записать
+- The app runs in the menu bar (top panel)
+- Click the icon to open the menu
+- "Start Recording" — start recording manually
+- When a call is detected (Zoom, FaceTime, etc.), a prompt will appear to start recording
 
-**Записи сохраняются в:** `~/Documents/MeetingRecordings/`
+**Recordings are saved to:** `~/Documents/MeetingRecordings/`
 
-## Транскрипция
+## Transcription
 
-Бесплатно: 5 транскрипций в месяц. Лимит сбрасывается автоматически.
+Free: 5 transcriptions per month. The limit resets automatically.
 
-Для автоматической расшифровки:
-1. Открой Settings → Transcription
-2. Включи "Auto-transcribe new recordings"
+To enable automatic transcription:
+1. Open Settings → Transcription
+2. Enable "Auto-transcribe new recordings"
 
-## Обратная связь
+## Feedback
 
-- [Сообщить о баге](https://github.com/emishin/meetingrecorder-updates/issues/new?template=bug_report.md)
-- [Предложить фичу](https://github.com/emishin/meetingrecorder-updates/issues/new?template=feature_request.md)
+- [Report a Bug](https://github.com/emishin/meetingrecorder-updates/issues/new?template=bug_report.md)
+- [Request a Feature](https://github.com/emishin/meetingrecorder-updates/issues/new?template=feature_request.md)
 
-## Обновления
+## Updates
 
-Приложение проверяет обновления автоматически. Также можно проверить вручную: Menu → Check for Updates.
+The app checks for updates automatically. You can also check manually: Menu → Check for Updates.
