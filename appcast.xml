@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>MeetingRecorder Updates</title>
+        <title>MeetingsRecorder Updates</title>
         <link>https://raw.githubusercontent.com/emishin/meetingrecorder-updates/main/appcast.xml</link>
-        <description>Updates for MeetingRecorder</description>
+        <description>Updates for MeetingsRecorder</description>
         <language>en</language>
+
+        <item>
+            <title>Version 1.3</title>
+            <pubDate>Sun, 02 Feb 2026 12:30:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3</h2>
+                <p>App renamed to MeetingsRecorder</p>
+                <ul>
+                    <li>Renamed app to MeetingsRecorder</li>
+                    <li>New domain: meetingsrecorder.com</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3/MeetingsRecorder-1.3.dmg"
+                sparkle:edSignature="3mj2PAoeRUgmHnpmsdSJkT1e9uDnWMigFlGXn7ek4oovZF07M6wvQ7c5JZ+ipTJOfhQfhruU+ErT+MPtjdLSAA=="
+                length="3274939"
+                type="application/octet-stream" />
+        </item>
 
         <item>
             <title>Version 1.2</title>
