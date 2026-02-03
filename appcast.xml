@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.8</title>
+            <pubDate>Mon, 03 Feb 2026 14:50:00 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.8</h2>
+                <ul>
+                    <li>Recordings appear in menu immediately after stopping</li>
+                    <li>Transcribe button for recordings without transcript</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.8/MeetingRecorder-1.3.8.dmg"
+                sparkle:edSignature="VwRCAtYRifSOeeIPasq5YwOb+aybOGssunywj3b01yFm885uaHZE9mdXYwzsQoZ1kbCFSqAfy161NKomvhzPDQ=="
+                length="4432821"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.7</title>
             <pubDate>Mon, 03 Feb 2026 14:40:00 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
