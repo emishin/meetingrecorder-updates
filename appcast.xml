@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.4</title>
+            <pubDate>Mon, 03 Feb 2026 13:40:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.4</h2>
+                <p>AI Summary feature</p>
+                <ul>
+                    <li>Generate AI summaries for your transcripts</li>
+                    <li>Auto-summarize option in Settings</li>
+                    <li>Powered by GPT-5</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.4/MeetingRecorder-1.3.4.dmg"
+                sparkle:edSignature="rXXPXZd+TskQZE6lg4Joa0P7CvGpke1eJVXzsw6ZXlfwyxN1bHrnpGmejlaR5CckNq/IiARvpIl7VqQsUteDCg=="
+                length="4405336"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.3</title>
             <pubDate>Mon, 03 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
