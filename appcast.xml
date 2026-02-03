@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.2</title>
+            <pubDate>Mon, 03 Feb 2026 11:30:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.2</h2>
+                <p>Analytics & improvements</p>
+                <ul>
+                    <li>Added anonymous usage analytics to improve the app</li>
+                    <li>Analytics can be disabled in Settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.2/MeetingsRecorder-1.3.2.dmg"
+                sparkle:edSignature="X3wjCDOYVt9EZe+jb8UPBtM0QOYp6OhKvVGVF9XThPlCYU2isr+gEoWlk5e7ZiqoPh+ZnJX4koqP1WAYsEEPCg=="
+                length="3680783"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.1</title>
             <pubDate>Mon, 03 Feb 2026 09:30:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
