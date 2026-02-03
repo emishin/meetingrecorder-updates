@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.5</title>
+            <pubDate>Mon, 03 Feb 2026 14:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.5</h2>
+                <p>Performance improvements & UI updates</p>
+                <ul>
+                    <li>Fixed UI lag when loading recordings</li>
+                    <li>Colored quick action buttons (Play, Transcript, Summary)</li>
+                    <li>Quick action buttons in Recordings tab</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.5/MeetingRecorder-1.3.5.dmg"
+                sparkle:edSignature="zeuW5/jCvHYdYqjYsbxsjCX1azvppvCOnRwqtKkk+0BeSc6Gqr/Ouaxeqhvx4EIb0ghmkOlSLSNfqdZPTgbIAw=="
+                length="4425010"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.4</title>
             <pubDate>Mon, 03 Feb 2026 13:40:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
