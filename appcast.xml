@@ -7,6 +7,47 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.3.11</title>
+            <pubDate>Tue, 04 Feb 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.11</h2>
+                <ul>
+                    <li>Async transcription API - works with any provider processing time</li>
+                    <li>UI shows "Uploading..." / "Transcribing..." status</li>
+                    <li>Improved audio level indicator sensitivity</li>
+                    <li>Simplified menu bar icon</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.11/MeetingRecorder-1.3.11.dmg"
+                sparkle:edSignature="JAx80kzSd/Y3M9jm9dDp0O/vTDzKmoCZiMbx50LZ+mQ8PcCLBq/951oUUEuiJ35TS3yHPZVRZrYaCcIXys0SCw=="
+                length="3299964"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
+            <title>Version 1.3.10</title>
+            <pubDate>Mon, 03 Feb 2026 18:20:00 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.3.10</h2>
+                <ul>
+                    <li>Audio level indicator now shows both microphone and system audio</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.3.10/MeetingRecorder-1.3.10.dmg"
+                sparkle:edSignature="X/ltvvTWdy2nfKiw2QBgJH/JCKXZAf7MdPr3h3f0eQ7q/OfY1BqYDzxT/X6rf7Q8hMNnVs7zqlC2I80nX61cBA=="
+                length="3315924"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.9</title>
             <pubDate>Mon, 03 Feb 2026 15:00:00 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
