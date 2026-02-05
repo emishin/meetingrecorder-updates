@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Wed, 05 Feb 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingsRecorder 1.4.0</h2>
+                <ul>
+                    <li>New onboarding flow for first-time users</li>
+                    <li>Email registration for support and updates</li>
+                    <li>Guided permissions setup</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.0/MeetingRecorder-1.4.0.dmg"
+                sparkle:edSignature="nNBRXNSZ8bgDv41l4eoctggHUWKZiYkQJuwRGHTWXOv3Y0UgnPsDgeJbnIDuDxQwEuP4HUwPk9itF6rDBxmHCQ=="
+                length="4529630"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.3.11</title>
             <pubDate>Tue, 04 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
