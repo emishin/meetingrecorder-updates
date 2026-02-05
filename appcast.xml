@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.1</title>
+            <pubDate>Wed, 05 Feb 2026 12:40:00 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.1</h2>
+                <ul>
+                    <li>Fixed app hanging when opening Settings</li>
+                    <li>Improved diagnostics with event tracking</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.1/MeetingRecorder-1.4.1.dmg"
+                sparkle:edSignature="o1okg6Oq0RVgf24dtccD0r9YMWWZ4jrlxPv6Hwc/rPrjblZJynThG1UUAZYCqFQ2VbYComBHvcoOfxQkmW5bDg=="
+                length="4046711"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.0</title>
             <pubDate>Wed, 05 Feb 2026 10:00:00 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
