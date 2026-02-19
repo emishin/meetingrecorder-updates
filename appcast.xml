@@ -18,12 +18,13 @@
                     <li>Stop recording prompt when call ends</li>
                     <li>Option to always auto-stop recording when call ends</li>
                     <li>Improved call detection with per-process microphone tracking</li>
+                    <li>Fixed automatic update checks not running on launch</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.2/MeetingRecorder-1.4.2.dmg"
-                sparkle:edSignature="BkPKIvpTFu8O8xsOpRTabdw1+ofZaOIoBslkKWpyTap5cVOC+lYPNS71uSHudK/AkBQ+Z3WDYuS29GCQYV11Aw=="
-                length="4569709"
+                sparkle:edSignature="ZfvPjq8I9e81+ci/tzJBuh0+XrUa0M6dxzcurTc3ulBd75qgTfhwFI6gKpPjwfk0QxpAp1RnbnulX+hBvmGlAQ=="
+                length="4569753"
                 type="application/octet-stream" />
         </item>
 
