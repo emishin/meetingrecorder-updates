@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.2</title>
+            <pubDate>Wed, 19 Feb 2026 21:00:00 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.2</h2>
+                <ul>
+                    <li>Stop recording prompt when call ends</li>
+                    <li>Option to always auto-stop recording when call ends</li>
+                    <li>Improved call detection with per-process microphone tracking</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.2/MeetingRecorder-1.4.2.dmg"
+                sparkle:edSignature="BkPKIvpTFu8O8xsOpRTabdw1+ofZaOIoBslkKWpyTap5cVOC+lYPNS71uSHudK/AkBQ+Z3WDYuS29GCQYV11Aw=="
+                length="4569709"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.1</title>
             <pubDate>Wed, 05 Feb 2026 12:40:00 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
