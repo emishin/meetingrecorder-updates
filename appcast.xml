@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.4</title>
+            <pubDate>Thu, 20 Feb 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.4</h2>
+                <ul>
+                    <li>Auto-update verification release</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.4/MeetingRecorder-1.4.4.dmg"
+                sparkle:edSignature="IhQEqZX68w61eXvspno/QGSdgAIh2rhKLLEyEuO+7mYsfq7B4WoH1KcWjiYBRg4FDfTLN9rumHiP/PjDoXFTDw=="
+                length="4570858"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.3</title>
             <pubDate>Wed, 19 Feb 2026 22:00:00 +0000</pubDate>
             <sparkle:version>21</sparkle:version>
