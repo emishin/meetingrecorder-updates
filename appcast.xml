@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.5</title>
+            <pubDate>Sat, 21 Feb 2026 16:26:41 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.5</h2>
+                <ul>
+                    <li>Meeting names are now derived from generated summaries</li>
+                    <li>Improved title truncation in Recent Recordings and Settings lists</li>
+                    <li>UX polish for recordings list readability</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.5/MeetingRecorder-1.4.5.dmg"
+                sparkle:edSignature="SX8Eo6AVcDPnciNNc8eK23xBs6GRPPcqv3VSY7awGv1MZP/NWlmoh1eflBgpDGd7YNN+ZszyXFbJHpTGqJYWAw=="
+                length="4582433"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.4</title>
             <pubDate>Thu, 20 Feb 2026 00:00:00 +0000</pubDate>
             <sparkle:version>22</sparkle:version>
