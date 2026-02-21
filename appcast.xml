@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.6</title>
+            <pubDate>Sat, 21 Feb 2026 18:12:03 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.6</h2>
+                <ul>
+                    <li>Search now works across recording names, transcripts, and summaries</li>
+                    <li>Background indexing for transcript and summary content in Recordings tab</li>
+                    <li>Improved matching with summary-derived meeting titles</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.6/MeetingRecorder-1.4.6.dmg"
+                sparkle:edSignature="MkJkPOgZ2qyNyg3BS4kno2an/orzhcUWpx6YZdgZ3cMwYMowKzW/ytDo9rb12R/bkmd8hA6vnXB8Mi6odXAgBA=="
+                length="4589331"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.5</title>
             <pubDate>Sat, 21 Feb 2026 16:26:41 +0000</pubDate>
             <sparkle:version>23</sparkle:version>
