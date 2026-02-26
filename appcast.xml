@@ -7,6 +7,27 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.7</title>
+            <pubDate>Wed, 26 Feb 2026 11:20:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.7</h2>
+                <ul>
+                    <li>Drag and drop audio files to transcribe (on menu bar icon or in popover)</li>
+                    <li>Supports M4A, MP3, WAV, AIFF, CAF formats with automatic conversion</li>
+                    <li>Fixed Settings window auto-opening on launch</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.7/MeetingRecorder-1.4.7.dmg"
+                sparkle:edSignature="oUPo0C4zlZUgQwUI6DVPL12gxFlgt864IGvhmWMlAIKkhr2uiwf2HvWVa5CzcGXyfYibhiD+MCl2YfIWX+3vDg=="
+                length="4643416"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.6</title>
             <pubDate>Sat, 21 Feb 2026 18:12:03 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
