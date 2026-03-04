@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.8</title>
+            <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.8</h2>
+                <ul>
+                    <li>Recording files now include meeting title in filename after summarization</li>
+                    <li>New "All Recordings" button below recent list for quick access to full history</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.8/MeetingRecorder-1.4.8.dmg"
+                sparkle:edSignature="IofOzxnvtj+EK3jNVnEekLHWy0301A5zhDtm9SSdEEgUSll+TPMt1Kl9/5KENEYOIrl0TuzbZONGhtR+PqUwBQ=="
+                length="4660238"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.7</title>
             <pubDate>Wed, 26 Feb 2026 11:20:00 +0000</pubDate>
             <sparkle:version>25</sparkle:version>
