@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.9</title>
+            <pubDate>Wed, 05 Mar 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.9</h2>
+                <ul>
+                    <li>App signed with Apple Developer ID certificate</li>
+                    <li>DMG notarized by Apple for trusted installation</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.9/MeetingRecorder-1.4.9.dmg"
+                sparkle:edSignature="4aVu/nWqGBMbOQx02YKW6xH3A0EFnXRQ7nImiIrddeX94XMHAq/DGzD6I7QFulAgVmQDzHgiC4OHQEOQn6ZmDg=="
+                length="4721930"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.8</title>
             <pubDate>Tue, 04 Mar 2026 22:00:00 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
