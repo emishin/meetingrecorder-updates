@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.12</title>
+            <pubDate>Thu, 06 Mar 2026 15:00:00 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.12</h2>
+                <ul>
+                    <li>Fixed microphone audio being sped up in recordings</li>
+                    <li>Proper sample rate conversion for all microphone types</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.12/MeetingRecorder-1.4.12.dmg"
+                sparkle:edSignature="a0KOR3glP46wv6m1z9suazKsQmCGzRNwUsB9koCWdqtLjqX3w3S9A3h2R1U9YNWomSusRfTXt0GmV9tq7L/5Bw=="
+                length="4732888"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.11</title>
             <pubDate>Thu, 06 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
