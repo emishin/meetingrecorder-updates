@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.4.11</title>
+            <pubDate>Thu, 06 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.4.11</h2>
+                <ul>
+                    <li>Open app from Spotlight when menu bar icon is hidden</li>
+                    <li>New "Show in Dock" option in Settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.4.11/MeetingRecorder-1.4.11.dmg"
+                sparkle:edSignature="xkPR6bsLmYaj8teLBiJTWNaTA5tovfafIQaOIaJpSIxwkevzaaFNsUl2kL33SqumDCmOrPnJGGDqHk2JEL6JDQ=="
+                length="4730754"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.10</title>
             <pubDate>Wed, 05 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
