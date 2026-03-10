@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.0</h2>
+                <ul>
+                    <li>New stereo audio pipeline with timestamp-based sync</li>
+                    <li>Microphone on left channel, system audio on right channel</li>
+                    <li>Optional separate mono track export</li>
+                    <li>Audio quality setting now applies correctly</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.0/MeetingRecorder-1.5.0.dmg"
+                sparkle:edSignature="69oHTi9zAFKqveaZ0P0XnEaLjkvQtUDsToIvCfBndtRF9776o2RJJOsLPeD7aNR7YcEmZ4rTPUYOFU6XuUI4Bw=="
+                length="4749710"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.4.12</title>
             <pubDate>Thu, 06 Mar 2026 15:00:00 +0000</pubDate>
             <sparkle:version>30</sparkle:version>
