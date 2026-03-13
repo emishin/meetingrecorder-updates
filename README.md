@@ -1,6 +1,6 @@
-# MeetingRecorder
+# MeetingsRecorder
 
-A macOS app for recording meetings with automatic call detection and transcription.
+A macOS app for recording meetings with automatic call detection, transcription, and AI summaries.
 
 ## Download
 
@@ -9,11 +9,11 @@ A macOS app for recording meetings with automatic call detection and transcripti
 ## Installation
 
 1. Open `MeetingRecorder-X.X.dmg`
-2. Drag MeetingRecorder to the Applications folder
+2. Drag MeetingsRecorder to the Applications folder
 3. Launch the app from Applications
 
 On first launch, macOS may show a warning:
-> "MeetingRecorder cannot be opened because it is from an unidentified developer"
+> "MeetingsRecorder cannot be opened because it is from an unidentified developer"
 
 **Solution:** Right-click on the app → Open → click "Open" in the dialog
 
@@ -27,7 +27,7 @@ A permission request will appear on first launch — click "OK"
 ### Screen Recording
 Required to capture system audio (the other person's voice):
 1. System Settings → Privacy & Security → Screen Recording
-2. Enable MeetingRecorder
+2. Enable MeetingsRecorder
 3. Restart the app
 
 ## Usage
@@ -41,11 +41,17 @@ Required to capture system audio (the other person's voice):
 
 ## Transcription
 
-Free: 5 transcriptions per month. The limit resets automatically.
+Free: 20 transcriptions per month. The limit resets automatically on the 1st of each month.
 
 To enable automatic transcription:
 1. Open Settings → Transcription
 2. Enable "Auto-transcribe new recordings"
+
+## AI Summaries
+
+Generate AI-powered meeting summaries from your transcripts (powered by GPT-5):
+- Click the sparkle icon next to any transcribed recording
+- Or enable "Auto-summarize" in Settings for automatic summaries
 
 ## Feedback
 

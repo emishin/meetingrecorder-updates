@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.1</title>
+            <pubDate>Thu, 13 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.1</h2>
+                <ul>
+                    <li>Show alert when transcription quota is exhausted</li>
+                    <li>Faster call-end detection (5s instead of 30s)</li>
+                    <li>Auto-update checks every 4 hours instead of 24</li>
+                    <li>Updated default settings for new users</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.1/MeetingRecorder-1.5.1.dmg"
+                sparkle:edSignature="W9jtgqFaXfSEeXISg+tQARalt9rY2CHuCg0G6h1s3ZaCrvCQP8CMLqw50mC2ko78tB7bnpzfQc+AqnEgo/nfCg=="
+                length="4758317"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.0</title>
             <pubDate>Tue, 10 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>31</sparkle:version>
