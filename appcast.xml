@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.2</title>
+            <pubDate>Wed, 19 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.2</h2>
+                <ul>
+                    <li>Russian localization</li>
+                    <li>Onboarding flow improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.2/MeetingRecorder-1.5.2.dmg"
+                sparkle:edSignature="rNl42jV5RAasnQdt48hB6qAYqnmlOxia4Vp8nEHLiWTxmCQjn/HCcen1raVum/2CoaNgXyjJBn+twqcEpIOfCQ=="
+                length="4765036"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.1</title>
             <pubDate>Thu, 13 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
