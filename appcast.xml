@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.4</title>
+            <pubDate>Tue, 25 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.4</h2>
+                <ul>
+                    <li>Fix high CPU usage during recording</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.4/MeetingRecorder-1.5.4.dmg"
+                sparkle:edSignature="Y188ERiZ6x/2nH1Z+/FYuG1bO/Bd151A88TSPmaqFYSXBCYAjxMEDgw4aSqFMWz4Q+Ra5qkCtmBqjdPe5i/zAw=="
+                length="4769440"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.3</title>
             <pubDate>Fri, 21 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>34</sparkle:version>
