@@ -7,6 +7,25 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.6</title>
+            <pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.6</h2>
+                <ul>
+                    <li>Fixed the menu-bar popover jiggling up and down in sync with the recording indicator blink</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.6/MeetingRecorder-1.5.6.dmg"
+                sparkle:edSignature="b4XgJvdBqyKartRUlrbPRbOqm6vkYUf8OVRqTjRpC+H5rf/aJWddYMA/5ZDpKlMEtXaXwg7Akra00bzvO2p8Aw=="
+                length="4776145"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.5</title>
             <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
             <sparkle:version>36</sparkle:version>
