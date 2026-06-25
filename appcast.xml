@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.5.5</title>
+            <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.5.5</h2>
+                <ul>
+                    <li>Recording indicator: a blinking red dot now appears on the menu-bar icon while recording (orange while paused), and the icon is a bit larger</li>
+                    <li>Stop is now instant on long recordings — the button no longer hangs while the file is saved</li>
+                    <li>More reliable error reporting: filtered out false "app freeze" noise so real issues stand out</li>
+                    <li>Better diagnostics when a transcription fails, to help us fix failures faster</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.5.5/MeetingRecorder-1.5.5.dmg"
+                sparkle:edSignature="0xBtEoxmER5DUeq4pTZguLP9TYt3d3h7X0jKCQSI0zR3wga7EhQij/bkFdA+9tSGGP3abItLjj0gDrs5HzfeCw=="
+                length="4776064"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.4</title>
             <pubDate>Tue, 25 Mar 2026 12:00:00 +0000</pubDate>
             <sparkle:version>35</sparkle:version>
