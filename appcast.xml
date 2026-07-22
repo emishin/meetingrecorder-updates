@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Tue, 22 Jul 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.0 — Redesign</h2>
+                <ul>
+                    <li>Completely redesigned popover: calmer list, actions on hover, quick status at a glance</li>
+                    <li>Built-in transcript reader with a synced audio player — click any line to jump, adjust speed, follow the highlighted phrase</li>
+                    <li>Play now opens the reader with playback, right where the words are</li>
+                    <li>Gentle corner notifications for call start/end — no more focus-stealing dialogs</li>
+                    <li>When the mic or screen permission is missing, the app now offers to record with what's available and a one-click Grant</li>
+                    <li>Clear monthly-quota banner with the reset date</li>
+                    <li>Refreshed onboarding and Settings, full dark-mode support</li>
+                    <li>Rename or trash a recording together with its transcript and summary from the right-click menu</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.0/MeetingRecorder-1.6.0.dmg"
+                sparkle:edSignature="+LWSRD+eloLU7aiV1H8PbEkuEVHDIOvrg5CFF+RgRBSW0YfRk3YVBtiEaqkzmrrHREuzA02NaXKcmCKLlwcKBA=="
+                length="5140316"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.5.6</title>
             <pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
             <sparkle:version>37</sparkle:version>
