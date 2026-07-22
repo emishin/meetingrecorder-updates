@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.1</title>
+            <pubDate>Tue, 22 Jul 2026 15:00:00 +0000</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.1</h2>
+                <ul>
+                    <li>Fixed the call notification sometimes appearing under the Dock, making its buttons unclickable</li>
+                    <li>Call notifications now show on the display you're working on</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.1/MeetingRecorder-1.6.1.dmg"
+                sparkle:edSignature="pWZCl4oa77AyVNtezBGnOosVMI+NkUg24iKLZOZ1yJxPPi4aZa18xrdGk1b8d3VrI4Zhtpip0W7nmnOjs99mDg=="
+                length="5142303"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.0</title>
             <pubDate>Tue, 22 Jul 2026 10:00:00 +0000</pubDate>
             <sparkle:version>38</sparkle:version>
