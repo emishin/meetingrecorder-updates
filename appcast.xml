@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.2</title>
+            <pubDate>Thu, 23 Jul 2026 12:50:47 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.2</h2>
+                <ul>
+                    <li>Recordings interrupted by a crash or quit are now recovered automatically on next launch</li>
+                    <li>Recordings are no longer lost if audio conversion fails — your capture is preserved</li>
+                    <li>Long meetings now upload and transcribe reliably (audio is optimized before upload)</li>
+                    <li>Silent recordings now show "No speech detected" instead of a "Failed" error</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.2/MeetingRecorder-1.6.2.dmg"
+                sparkle:edSignature="fifBgljL/BLCa4/3/RsZINEo94oX1Fz5Gi5+bHibf4Ow6RcY/ApQOovmx4SI2EsB1X97SQYEo0v0eAeR7K6sDQ=="
+                length="5188382"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.1</title>
             <pubDate>Tue, 22 Jul 2026 15:00:00 +0000</pubDate>
             <sparkle:version>39</sparkle:version>
