@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.3</title>
+            <pubDate>Tue, 11 Aug 2026 10:50:06 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.3</h2>
+                <ul>
+                    <li>Fixed a crash that could happen when opening Settings</li>
+                    <li>Listing microphones no longer briefly freezes the app</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.3/MeetingRecorder-1.6.3.dmg"
+                sparkle:edSignature="A0+aayxtdh3Jfas+brnxYY5D2Y4QJv4/8EQGhLEQ+qZYhwg4Y4h3qN+IptE2Hu+5O5R3M971eBtK7UyYzKhEBA=="
+                length="5193246"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.2</title>
             <pubDate>Thu, 23 Jul 2026 12:50:47 +0000</pubDate>
             <sparkle:version>40</sparkle:version>
