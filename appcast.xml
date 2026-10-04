@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.4</title>
+            <pubDate>Sun, 04 Oct 2026 13:14:22 +0000</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.4</h2>
+                <ul>
+                    <li>Updates no longer reset the Screen Recording permission, and the app stops asking for it over and over</li>
+                    <li>Transcriptions survive network drops and app restarts — no re-upload, no extra credit — and retry automatically when you're back online</li>
+                    <li>Failed transcriptions now say why: no connection, server unavailable or timed out</li>
+                    <li>Call detection works right after launch, without opening the menu first</li>
+                    <li>Far fewer false "Record this call?" alerts from dictation, AI and recording apps</li>
+                    <li>"Not a call — don't ask for…" on the alert, and a list of excluded apps in Settings → General you can edit</li>
+                    <li>Recordings shorter than 3 seconds are no longer transcribed automatically</li>
+                    <li>In automatic mode the "limit reached" alert appears once per period instead of after every meeting</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.4/MeetingRecorder-1.6.4.dmg"
+                sparkle:edSignature="ju+GaR2mt9gk0ZryHGo5RwY2lBR2onBfyBV+cvJ3u0SEwOdSf9QPuRr3aglWwbfLMEBqJKp4nacaiRm9OJOYDA=="
+                length="5289461"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.3</title>
             <pubDate>Tue, 11 Aug 2026 10:50:06 +0000</pubDate>
             <sparkle:version>41</sparkle:version>
