@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.5</title>
+            <pubDate>Sun, 04 Oct 2026 13:33:22 +0000</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.5</h2>
+                <ul>
+                    <li>Fixes automatic updates failing with "An error occurred while running the updater" on macOS 26 and later</li>
+                </ul>
+                <p>Includes everything from 1.6.4: permission fixes, more reliable transcriptions and quieter call detection.</p>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.5/MeetingRecorder-1.6.5.dmg"
+                sparkle:edSignature="aT2hhY7S9ZjO7fWB+qZfCW8uJ27tXNOsYNeeDO+Y4OCscnZ0Hk6c5O+VeFA1FjSHrGNk6TvmV5t1fJPf2ughDw=="
+                length="5360000"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.4</title>
             <pubDate>Sun, 04 Oct 2026 13:14:22 +0000</pubDate>
             <sparkle:version>42</sparkle:version>
