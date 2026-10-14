@@ -11,6 +11,12 @@
             <pubDate>Tue, 13 Oct 2026 15:47:19 +0000</pubDate>
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+            <!-- 1.6.3–1.6.4 (builds 41–42) ship Sparkle ≤2.8.1, which can't install on
+                 macOS 26+ (cache folder ending in ".app"): tell them, link to manual steps. -->
+            <sparkle:informationalUpdate>
+                <sparkle:belowVersion>43</sparkle:belowVersion>
+            </sparkle:informationalUpdate>
+            <link>https://meetingsrecorder.com/update</link>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>MeetingRecorder 1.6.9</h2>
