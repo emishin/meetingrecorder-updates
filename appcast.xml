@@ -7,6 +7,60 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.6.11</title>
+            <pubDate>Sat, 17 Oct 2026 08:34:57 +0000</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.6.11</sparkle:shortVersionString>
+            <!-- 1.6.3–1.6.4 (builds 41–42) ship Sparkle ≤2.8.1, which can't install on
+                 macOS 26+ (cache folder ending in ".app"): tell them, link to manual steps. -->
+            <sparkle:informationalUpdate>
+                <sparkle:belowVersion>43</sparkle:belowVersion>
+            </sparkle:informationalUpdate>
+            <link>https://meetingsrecorder.com/update</link>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>MeetingRecorder 1.6.11</h2>
+                <ul>
+                    <li>Product-update emails: the address is shown and can be changed before you subscribe</li>
+                    <li>After subscribing, the app says to confirm from your inbox, and Settings reminds you until you do</li>
+                </ul>
+                <h3>Also since 1.6.3</h3>
+                <ul>
+                    <li>Setup no longer gets lost when macOS restarts the app for Screen Recording: it comes back to the same step and says what to do</li>
+                    <li>A clearer permissions step: what will happen before you turn on Screen Recording, and why Continue is waiting</li>
+                    <li>Optional product-update emails: opt in during setup or in Settings → General, confirmed by email, off any time</li>
+                    <li>A one-tap question during setup: how did you hear about MeetingRecorder?</li>
+                    <li>Setup no longer stops at the email step when you're offline</li>
+                    <li>MeetingRecorder Pro: transcribe without the monthly limit for $10/month or $84/year. Upgrade from the menu or Settings → Transcription, and manage or cancel your subscription right from the app</li>
+                    <li>Message the developer from the menu (💬): your message comes straight to me, and I reply by email</li>
+                    <li>When you run low on free transcriptions, the menu shows clearly how many are left and when they come back</li>
+                    <li>Every transcribed recording gets a clear title and a short summary: hover over a recording in the menu to see what the meeting was about</li>
+                    <li>Recordings are named by that title right after transcription, without waiting for a full summary</li>
+                    <li>A full summary keeps the same title as the list and the file name</li>
+                    <li>More accurate transcripts (fewer missed phrases, numbers written as digits, no filler words) and clearer, more structured summaries</li>
+                    <li>Long meetings (2 hours and more) are no longer cut off at the end of the transcript</li>
+                    <li>The one-time question in the menu appears without restarting the app; the recordings list and your monthly usage refresh every time you open the menu</li>
+                    <li>A one-time question in the menu: how would you feel if you could no longer use MeetingRecorder? Answer in one click and add a comment if you like — it goes straight to the developer</li>
+                    <li>The Grant button always adds MeetingRecorder to the Screen Recording list in System Settings</li>
+                    <li>Updates no longer reset the Screen Recording permission, and the app stops asking for it over and over</li>
+                    <li>Automatic updates no longer fail with "An error occurred while running the updater" on macOS 26 and later</li>
+                    <li>Transcriptions survive network drops and app restarts — no re-upload, no extra credit — and retry automatically when you're back online</li>
+                    <li>Failed transcriptions now say why: no connection, server unavailable or timed out</li>
+                    <li>Call detection works right after launch, without opening the menu first</li>
+                    <li>Far fewer false "Record this call?" alerts from dictation, AI and recording apps</li>
+                    <li>"Not a call — don't ask for…" on the alert, and an editable list of excluded apps in Settings → General</li>
+                    <li>Recordings shorter than 3 seconds are no longer transcribed automatically</li>
+                    <li>In automatic mode the "limit reached" alert appears once per period instead of after every meeting</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/emishin/meetingrecorder-updates/releases/download/v1.6.11/MeetingRecorder-1.6.11.dmg"
+                sparkle:edSignature="J1q46Us0bZFwCFg7EAA+yWjBsP4yw93RppZKLAuyaaOyCXI5U9Zw9xZpAWivduB7Ye3mUL8h0kBGtr8sKt0lCA=="
+                length="5092414"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.6.10</title>
             <pubDate>Sat, 17 Oct 2026 08:23:42 +0000</pubDate>
             <sparkle:version>48</sparkle:version>
